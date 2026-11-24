@@ -1,7 +1,7 @@
 {
  "version": 1,
  "season": 2027,
- "generatedAt": "2026-11-24T15:00:19+09:00",
+ "generatedAt": "2026-11-25T06:00:23+09:00",
  "nextUrl": null,
  "companies": [
   {
@@ -3995,7 +3995,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": "https://www.mcdonalds.co.jp/campaign/",
-   "verifiedAt": "2026-11-24"
+   "verifiedAt": "2026-11-25"
   }
  ]
 }
