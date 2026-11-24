@@ -1,7 +1,7 @@
 {
  "version": 1,
  "season": 2027,
- "generatedAt": "2026-11-23T13:20:20+09:00",
+ "generatedAt": "2026-11-24T15:00:19+09:00",
  "nextUrl": null,
  "companies": [
   {
@@ -3978,6 +3978,24 @@
    "payBy": null,
    "officialUrl": "https://www.palcloset.jp/display/item/2626-CSHAPPYBOX/",
    "verifiedAt": "2026-11-23"
+  },
+  {
+   "id": "mcdonalds-2027-マクドナルドの®2027",
+   "companyId": "mcdonalds",
+   "name": "マクドナルドの福袋® 2027",
+   "price": null,
+   "contents": null,
+   "channel": "抽選",
+   "startAt": null,
+   "startTime": null,
+   "endAt": "2026-12-09",
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": null,
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.mcdonalds.co.jp/campaign/",
+   "verifiedAt": "2026-11-24"
   }
  ]
 }
