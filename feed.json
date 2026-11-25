@@ -1,7 +1,7 @@
 {
  "version": 1,
  "season": 2027,
- "generatedAt": "2026-11-25T06:00:23+09:00",
+ "generatedAt": "2026-11-25T12:00:50+09:00",
  "nextUrl": null,
  "companies": [
   {
@@ -816,7 +816,7 @@
    "companyId": "starbucks",
    "name": "スターバックス福袋 2027",
    "price": 9500,
-   "contents": "トートバッグ、福袋限定ステンレスボトル、グッズ3点、コーヒー豆(100g×2種)、コーヒー豆チケット1枚(税込2,000円まで)、ドリンクチケット7枚、フードトライアルチケット6枚",
+   "contents": "トートバッグ、福袋限定ステンレスボトル、グッズ3点、コーヒー豆2種(各100g)、コーヒー豆チケット1枚、ドリンクチケット7枚、フードトライアルチケット6枚",
    "channel": "抽選",
    "startAt": "2026-11-04",
    "startTime": null,
@@ -827,7 +827,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": "https://www.starbucks.co.jp/youkou/luckybag/",
-   "verifiedAt": "2026-11-16"
+   "verifiedAt": "2026-11-25"
   },
   {
    "id": "kfc-2027-ケンタ",
