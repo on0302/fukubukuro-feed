@@ -1,7 +1,7 @@
 {
  "version": 1,
  "season": 2027,
- "generatedAt": "2026-11-26T12:00:35+09:00",
+ "generatedAt": "2026-11-27T00:00:28+09:00",
  "nextUrl": null,
  "companies": [
   {
@@ -5594,6 +5594,24 @@
    "payBy": null,
    "officialUrl": "https://www.logos.ne.jp/news/1735",
    "verifiedAt": "2026-11-26"
+  },
+  {
+   "id": "mos-2027-【ブラックフライデー】鰻重バーガー入ライスバーガー",
+   "companyId": "mos",
+   "name": "【ブラックフライデー】鰻重バーガー入 ライスバーガー福袋",
+   "price": 6980,
+   "contents": "鰻重バーガー入りライスバーガー",
+   "channel": "ネット",
+   "startAt": null,
+   "startTime": null,
+   "endAt": null,
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": null,
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.mos.jp/",
+   "verifiedAt": "2026-11-27"
   }
  ]
 }
