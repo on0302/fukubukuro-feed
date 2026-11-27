@@ -1,7 +1,7 @@
 {
  "version": 1,
  "season": 2027,
- "generatedAt": "2026-11-27T00:00:28+09:00",
+ "generatedAt": "2026-11-27T15:00:19+09:00",
  "nextUrl": null,
  "companies": [
   {
@@ -5600,7 +5600,7 @@
    "companyId": "mos",
    "name": "【ブラックフライデー】鰻重バーガー入 ライスバーガー福袋",
    "price": 6980,
-   "contents": "鰻重バーガー入りライスバーガー",
+   "contents": "鰻重バーガー入りのライスバーガー福袋",
    "channel": "ネット",
    "startAt": null,
    "startTime": null,
