@@ -1,7 +1,7 @@
 {
  "version": 1,
  "season": 2027,
- "generatedAt": "2026-11-27T15:00:19+09:00",
+ "generatedAt": "2026-11-28T12:00:46+09:00",
  "nextUrl": null,
  "companies": [
   {
@@ -79,7 +79,7 @@
    "name": "ドトールコーヒー",
    "genre": "飲食",
    "color": "#5b3a29",
-   "officialUrl": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/index.html"
+   "officialUrl": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/index.html?utm_source=pr&utm_medium=official&utm_campaign=pr2027fuku"
   },
   {
    "id": "baskin",
@@ -100,7 +100,7 @@
    "name": "カルディ",
    "genre": "その他",
    "color": "#c0392b",
-   "officialUrl": "https://www.kaldi.co.jp/news/limiteditems/"
+   "officialUrl": "https://www.kaldi.co.jp/ec/ext/fukubukuro2027.html"
   },
   {
    "id": "muji",
@@ -1362,8 +1362,8 @@
    "saleAt": null,
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://gourmet.watch.impress.co.jp/docs/news/2155457.html",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.kaldi.co.jp/ec/ext/fukubukuro2027.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "kaldi-2027-コーヒー人気セット",
@@ -1380,8 +1380,8 @@
    "saleAt": "2027-01-01",
    "saleTime": "10:00",
    "payBy": null,
-   "officialUrl": "https://gourmet.watch.impress.co.jp/docs/news/2155457.html",
-   "verifiedAt": "2026-11-11"
+   "officialUrl": "https://www.kaldi.co.jp/ec/ext/fukubukuro2027.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "kaldi-2027-コーヒー豪華セット",
@@ -1398,8 +1398,8 @@
    "saleAt": "2027-01-01",
    "saleTime": "10:00",
    "payBy": null,
-   "officialUrl": "https://gourmet.watch.impress.co.jp/docs/news/2155457.html",
-   "verifiedAt": "2026-11-11"
+   "officialUrl": "https://www.kaldi.co.jp/ec/ext/fukubukuro2027.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "kaldi-2027-ドリップコーヒー",
@@ -1416,8 +1416,8 @@
    "saleAt": "2027-01-01",
    "saleTime": "10:00",
    "payBy": null,
-   "officialUrl": "https://gourmet.watch.impress.co.jp/docs/news/2155457.html",
-   "verifiedAt": "2026-11-11"
+   "officialUrl": "https://www.kaldi.co.jp/ec/ext/fukubukuro2027.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "misterdonut-2027-ミスド2027",
@@ -1542,8 +1542,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.doutor.co.jp/news/newsrelease/detail/20261027152842.html",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/index.html?utm_source=pr&utm_medium=official&utm_campaign=pr2027fuku",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "doutor-2027-ドトール×シナモロールオリジナルバッグセット7,500円",
@@ -1560,8 +1560,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.doutor.co.jp/news/newsrelease/detail/20261027152842.html",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/index.html?utm_source=pr&utm_medium=official&utm_campaign=pr2027fuku",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "doutor-2027-シナモロールオリジナルバッグセット7,500円(オンラインショップ限定)",
@@ -1578,8 +1578,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.doutor.co.jp/news/newsrelease/detail/20261027152842.html",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/index.html?utm_source=pr&utm_medium=official&utm_campaign=pr2027fuku",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "doutor-2027-ドリップカフェセット(2,900〜9,900円の4種)",
@@ -1596,8 +1596,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.doutor.co.jp/news/newsrelease/detail/20261027152842.html",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/index.html?utm_source=pr&utm_medium=official&utm_campaign=pr2027fuku",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "doutor-2027-コーヒー豆セット(2,400〜6,400円の3種)",
@@ -1614,8 +1614,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.doutor.co.jp/news/newsrelease/detail/20261027152842.html",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.doutor.co.jp/dcs/campaign/2027_fukubukuro/index.html?utm_source=pr&utm_medium=official&utm_campaign=pr2027fuku",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "komeda-2027-ジェリコ堂2027",
