@@ -1,7 +1,7 @@
 {
  "version": 1,
  "season": 2027,
- "generatedAt": "2026-11-28T12:00:46+09:00",
+ "generatedAt": "2026-11-28T19:00:03+09:00",
  "nextUrl": null,
  "companies": [
   {
@@ -9,7 +9,7 @@
    "name": "マクドナルド",
    "genre": "飲食",
    "color": "#f6c244",
-   "officialUrl": "https://www.mcdonalds.co.jp/campaign/"
+   "officialUrl": "https://www.mcdonalds.co.jp/campaign/lb-2027-fgvi2/"
   },
   {
    "id": "lotteria",
@@ -184,7 +184,7 @@
    "name": "幸楽苑",
    "genre": "飲食",
    "color": "#d7261e",
-   "officialUrl": "https://www.kourakuen.co.jp/"
+   "officialUrl": "https://www.kourakuen.co.jp/news/927"
   },
   {
    "id": "kappasushi",
@@ -198,7 +198,7 @@
    "name": "アフタヌーンティー",
    "genre": "その他",
    "color": "#6b4f3a",
-   "officialUrl": "https://www.afternoon-tea.net/"
+   "officialUrl": "https://www.afternoon-tea.net/article/tearoom-campaign/newyearsbag2027/"
   },
   {
    "id": "ueshima",
@@ -303,7 +303,7 @@
    "name": "サンクゼール",
    "genre": "その他",
    "color": "#4a3b6b",
-   "officialUrl": "https://www.stcousair.co.jp/"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000253.000158568.html"
   },
   {
    "id": "meganeichiba",
@@ -317,7 +317,7 @@
    "name": "よーじや",
    "genre": "その他",
    "color": "#8e2b3a",
-   "officialUrl": "https://www.yojiya.co.jp/"
+   "officialUrl": "https://www.yojiya.co.jp/archives/6025"
   },
   {
    "id": "cosmekitchen",
@@ -331,7 +331,7 @@
    "name": "LILY BROWN",
    "genre": "その他",
    "color": "#8a3b52",
-   "officialUrl": "https://www.lily-brown.com/"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000004570.000018505.html"
   },
   {
    "id": "himaraya",
@@ -443,7 +443,7 @@
    "name": "BAKE CHEESE TART",
    "genre": "飲食",
    "color": "#1f3f8f",
-   "officialUrl": "https://cheesetart.com"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000324.000014043.html"
   },
   {
    "id": "ucc",
@@ -492,7 +492,7 @@
    "name": "北海道生まれ和食処とんでん",
    "genre": "飲食",
    "color": "#1a4f8b",
-   "officialUrl": "https://www.tonden.co.jp/"
+   "officialUrl": "https://www.tonden.co.jp/info/detail/2736053"
   },
   {
    "id": "nishikiya",
@@ -513,7 +513,7 @@
    "name": "天下一品",
    "genre": "飲食",
    "color": "#b71c1c",
-   "officialUrl": "https://www.tenkaippin.co.jp/55th/"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000047.000152950.html"
   },
   {
    "id": "buttersand",
@@ -814,7 +814,7 @@
    "name": "丸源ラーメン",
    "genre": "飲食",
    "color": "#b5121b",
-   "officialUrl": "https://www.marugen-ramen.jp/"
+   "officialUrl": "https://www.syodai-marugen.jp/lp/fukubukuro2027/"
   },
   {
    "id": "hattendo",
@@ -828,7 +828,7 @@
    "name": "ovgo Baker",
    "genre": "飲食",
    "color": "#8a4b1f",
-   "officialUrl": "https://ovgobaker.com/"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000047.000069636.html"
   },
   {
    "id": "lupicia",
@@ -842,7 +842,7 @@
    "name": "ヴィ・ド・フランス",
    "genre": "飲食",
    "color": "#8c3b1a",
-   "officialUrl": "https://www.viedefrance.co.jp/"
+   "officialUrl": "https://www.viedefrance.co.jp/%E3%80%8E%E6%96%B0%E6%98%A5%E7%A6%8F%E8%A2%8B2027%E3%80%8F%EF%BD%9E2026%E5%B9%B412%E6%9C%881%E6%97%A5%E3%82%88%E3%82%8A%E4%BA%88%E7%B4%84%E9%96%8B%E5%A7%8B%EF%BC%81%EF%BD%9E/"
   },
   {
    "id": "sugakiya",
@@ -856,21 +856,21 @@
    "name": "上海湯包小館",
    "genre": "飲食",
    "color": "#9a2a14",
-   "officialUrl": "https://fiverecipe.co.jp/shanghaitangbao/"
+   "officialUrl": "https://www.fiverecipe.co.jp/shanghaitangbao/news/entry-654.html"
   },
   {
    "id": "choushimaru",
    "name": "銚子丸",
    "genre": "飲食",
    "color": "#1d4f8a",
-   "officialUrl": "https://www.choushimaru.co.jp/"
+   "officialUrl": "https://appli.choushimaru.co.jp/ec/2027winterfukubukuro"
   },
   {
    "id": "kairikiya",
    "name": "ラーメン魁力屋",
    "genre": "飲食",
    "color": "#8f1d1d",
-   "officialUrl": "https://www.kairikiya.co.jp/"
+   "officialUrl": "https://www.kairikiya.co.jp/news/7081"
   },
   {
    "id": "seven",
@@ -926,7 +926,7 @@
    "name": "帝国ホテル",
    "genre": "飲食",
    "color": "#7a1f2b",
-   "officialUrl": "https://shop.imperialhotel.co.jp/"
+   "officialUrl": "https://another.imperialhotel.co.jp/special-happybag.html"
   },
   {
    "id": "botanist",
@@ -940,7 +940,7 @@
    "name": "YOLU",
    "genre": "その他",
    "color": "#3b3a7a",
-   "officialUrl": "https://yolu.jp/"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000001042.000012002.html"
   },
   {
    "id": "laline",
@@ -954,7 +954,7 @@
    "name": "aimerfeel",
    "genre": "その他",
    "color": "#8a2a5a",
-   "officialUrl": "https://shop.aimerfeel.jp/"
+   "officialUrl": "https://shop.aimerfeel.jp/shop/g/g9245/"
   },
   {
    "id": "birthday",
@@ -1059,7 +1059,7 @@
    "name": "柿安本店",
    "genre": "飲食",
    "color": "#7a1f2b",
-   "officialUrl": "https://www.kakiyasuhonten.co.jp/nikuyoyaku/"
+   "officialUrl": "https://www.kakiyasuhonten.co.jp/cate/brand/detail.php?id=1398"
   },
   {
    "id": "rokumei",
@@ -1087,7 +1087,7 @@
    "name": "弁才天",
    "genre": "飲食",
    "color": "#6b3a7a",
-   "officialUrl": "https://bestcalendar.jp/"
+   "officialUrl": "https://ec.benzaiten-daifuku.jp/products/benzaiten-fukubukuro-ume-2027"
   },
   {
    "id": "daimaru",
@@ -1200,6 +1200,76 @@
    "genre": "その他",
    "color": "#a3341f",
    "officialUrl": "https://www.logos.ne.jp/news/1735"
+  },
+  {
+   "id": "ringerhut",
+   "name": "リンガーハット",
+   "genre": "飲食",
+   "color": "#2f6b3a",
+   "officialUrl": "https://www.ringerhut.jp/news/2026/1125_1/"
+  },
+  {
+   "id": "bigboy",
+   "name": "ビッグボーイ",
+   "genre": "飲食",
+   "color": "#a3231f",
+   "officialUrl": "https://www.bigboyjapan.co.jp/special/bb-winter-fukubukuro2027/"
+  },
+  {
+   "id": "dennys",
+   "name": "デニーズ",
+   "genre": "飲食",
+   "color": "#8a4b1f",
+   "officialUrl": "https://www.dennys.jp/campaign/fukubukuro/"
+  },
+  {
+   "id": "kamakurapasta",
+   "name": "鎌倉パスタ",
+   "genre": "飲食",
+   "color": "#a3341f",
+   "officialUrl": "https://www.saint-marc-hd.com/kamakura/contents/2027fk/"
+  },
+  {
+   "id": "kurashiki",
+   "name": "倉式珈琲店",
+   "genre": "飲食",
+   "color": "#4a3020",
+   "officialUrl": "https://www.saint-marc-hd.com/kurashiki/news/1636/"
+  },
+  {
+   "id": "godiva",
+   "name": "ゴディバ",
+   "genre": "飲食",
+   "color": "#5a3a1a",
+   "officialUrl": "https://www.godiva.co.jp/news/news20261120_2.html"
+  },
+  {
+   "id": "dhc",
+   "name": "DHC",
+   "genre": "その他",
+   "color": "#1f3f8f",
+   "officialUrl": "https://www.dhc.co.jp/contents/limited/page_lp_fuku_202612.html"
+  },
+  {
+   "id": "attenir",
+   "name": "アテニア",
+   "genre": "その他",
+   "color": "#7a2a5a",
+   "officialUrl": "https://www.attenir.co.jp/campaign/01/2611_99_a/index.html"
+  },
+  {
+   "id": "pokemoncenter",
+   "name": "ポケモンセンター",
+   "genre": "その他",
+   "color": "#b5121b",
+   "officialUrl": "https://www.pokemoncenter-online.com/4521329453866.html"
+  },
+  {
+   "id": "moomin",
+   "name": "ムーミン(MOOMIN SHOP)",
+   "genre": "その他",
+   "color": "#2f5f8a",
+   "officialUrl": "https://www.moomin.co.jp/news/products/6abcb3640e550"
   }
  ],
  "bags": [
@@ -1632,8 +1702,8 @@
    "saleAt": "2027-01-01",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.komeda.co.jp/jelycodo/",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": null,
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "jollypasta-2027-冬の食卓ほっこりセット(第2次抽選)",
@@ -1722,8 +1792,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.kourakuen.co.jp/",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.kourakuen.co.jp/news/927",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "kappasushi-2027-かっぱの2027",
@@ -1758,8 +1828,8 @@
    "saleAt": "2026-12-14",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.afternoon-tea.net/",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.afternoon-tea.net/article/tearoom-campaign/newyearsbag2027/",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "ueshima-2027-happybag20276,000円",
@@ -2046,8 +2116,8 @@
    "saleAt": null,
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.stcousair.co.jp/",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000253.000158568.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "meganeichiba-2027-2027オンライン限定(ひつじのショーン)",
@@ -2100,8 +2170,8 @@
    "saleAt": "2027-01-01",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.yojiya.co.jp/",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.yojiya.co.jp/archives/6025",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "cosmekitchen-2027-2027輝",
@@ -2172,8 +2242,8 @@
    "saleAt": null,
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.lily-brown.com/",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000004570.000018505.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "himaraya-2027-ヒマラヤ2027(先行予約、5,500〜16,500円)",
@@ -2316,8 +2386,8 @@
    "saleAt": null,
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.atpress.ne.jp/news/636779",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.haba.co.jp/f/h-005009434",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "delfonics-2027-2027webshop(ロルバーンほか)",
@@ -2658,8 +2728,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://cheesetart.com",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000324.000014043.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "baketart-2027-happybox2027チーズタルトセット",
@@ -2676,8 +2746,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://cheesetart.com",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000324.000014043.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "baketart-2027-happybox2027詰め合わせセット(オンライン限定)",
@@ -3108,8 +3178,8 @@
    "saleAt": "2027-01-01",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.tonden.co.jp/",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.tonden.co.jp/info/detail/2736053",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "pepperlunch-2027-2027年3,000円(デジタル)",
@@ -3172,7 +3242,7 @@
    "price": null,
    "contents": "公式ページでは販売期間12/26〜1/5のみ公表、価格・中身は「近日情報解禁」(2026-11-13時点)",
    "channel": "店頭",
-   "startAt": null,
+   "startAt": "2026-12-01",
    "startTime": null,
    "endAt": "2027-01-05",
    "endTime": null,
@@ -3180,8 +3250,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.tenkaippin.co.jp/55th/",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000047.000152950.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "buttersand-2027-2027松",
@@ -3702,8 +3772,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://abenoharukas.d-kintetsu.co.jp/pages/202611fukubukuro_reserve1/index.html",
-   "verifiedAt": "2026-11-13"
+   "officialUrl": "https://www.sanrio.co.jp/news/goods/mx-happybag-20261120/",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "lakealster-2027-服飾雑貨",
@@ -4378,16 +4448,16 @@
    "price": null,
    "contents": null,
    "channel": "抽選",
-   "startAt": null,
+   "startAt": "2026-11-24",
    "startTime": null,
    "endAt": "2026-12-09",
    "endTime": null,
    "resultAt": null,
-   "saleAt": null,
+   "saleAt": "2027-01-01",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.mcdonalds.co.jp/campaign/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://www.mcdonalds.co.jp/campaign/lb-2027-fgvi2/",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "marugen-2027-丸源ラーメン2027(アプリ会員限定)",
@@ -4404,8 +4474,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.marugen-ramen.jp/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://www.syodai-marugen.jp/lp/fukubukuro2027/",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "hattendo-2027-八天堂2027",
@@ -4440,8 +4510,8 @@
    "saleAt": "2027-01-01",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://ovgobaker.com/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000047.000069636.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "lupicia-2027-ルピシア2027冬(松・竹・梅)",
@@ -4476,8 +4546,8 @@
    "saleAt": "2027-01-01",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.viedefrance.co.jp/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://www.viedefrance.co.jp/%E3%80%8E%E6%96%B0%E6%98%A5%E7%A6%8F%E8%A2%8B2027%E3%80%8F%EF%BD%9E2026%E5%B9%B412%E6%9C%881%E6%97%A5%E3%82%88%E3%82%8A%E4%BA%88%E7%B4%84%E9%96%8B%E5%A7%8B%EF%BC%81%EF%BD%9E/",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "sugakiya-2027-スガキヤ2027",
@@ -4494,8 +4564,8 @@
    "saleAt": "2026-12-30",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.sugakiyagoods.com/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": null,
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "shanghaitb-2027-上海湯包小館2027年",
@@ -4512,8 +4582,8 @@
    "saleAt": "2026-12-29",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://fiverecipe.co.jp/shanghaitangbao/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://www.fiverecipe.co.jp/shanghaitangbao/news/entry-654.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "choushimaru-2027-銚子丸冬の",
@@ -4530,8 +4600,8 @@
    "saleAt": "2026-12-01",
    "saleTime": "10:00",
    "payBy": null,
-   "officialUrl": "https://www.choushimaru.co.jp/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://appli.choushimaru.co.jp/ec/2027winterfukubukuro",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "kairikiya-2027-魁力屋魁!赤福気袋",
@@ -4548,8 +4618,8 @@
    "saleAt": "2026-12-14",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.kairikiya.co.jp/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://www.kairikiya.co.jp/news/7081",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "seven-2027-セブン-イレブン2027",
@@ -4836,8 +4906,8 @@
    "saleAt": "2027-01-01",
    "saleTime": "08:00",
    "payBy": null,
-   "officialUrl": "https://shop.imperialhotel.co.jp/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://another.imperialhotel.co.jp/special-happybag.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "botanist-2027-botanist2027年",
@@ -4872,8 +4942,8 @@
    "saleAt": "2026-10-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://yolu.jp/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000001042.000012002.html",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "laline-2027-laline2027",
@@ -4908,8 +4978,8 @@
    "saleAt": "2026-12-26",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://shop.aimerfeel.jp/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://shop.aimerfeel.jp/shop/g/g9245/",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "birthday-2027-バースデイ2027年happybag",
@@ -5178,8 +5248,8 @@
    "saleAt": null,
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.kakiyasuhonten.co.jp/nikuyoyaku/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://www.kakiyasuhonten.co.jp/cate/brand/detail.php?id=1398",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "rokumei-2027-ロクメイコーヒー新春2027",
@@ -5250,8 +5320,8 @@
    "saleAt": "2026-12-29",
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://bestcalendar.jp/",
-   "verifiedAt": "2026-11-26"
+   "officialUrl": "https://ec.benzaiten-daifuku.jp/products/benzaiten-fukubukuro-ume-2027",
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "daimaru-2027-大丸松坂屋2027(オンライン)",
@@ -5413,7 +5483,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": null,
-   "verifiedAt": "2026-11-26"
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "golf5-2027-ゴルフ52027ニューバランススポーツウェア8〜11点セット",
@@ -5449,7 +5519,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": null,
-   "verifiedAt": "2026-11-26"
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "ping-2027-ピン2027",
@@ -5467,7 +5537,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": null,
-   "verifiedAt": "2026-11-26"
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "xebio-2027-ゼビオ・ヴィクトリアゴルフ2027(先行予約)",
@@ -5485,7 +5555,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": null,
-   "verifiedAt": "2026-11-26"
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "tsuruya-2027-つるやゴルフ2027(先行予約)",
@@ -5503,7 +5573,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": null,
-   "verifiedAt": "2026-11-26"
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "munsing-2027-マンシングウェア2027",
@@ -5521,7 +5591,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": null,
-   "verifiedAt": "2026-11-26"
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "lecoq-2027-ルコックゴルフ2027",
@@ -5539,7 +5609,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": null,
-   "verifiedAt": "2026-11-26"
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "puma-2027-プーマゴルフ2027",
@@ -5557,7 +5627,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": null,
-   "verifiedAt": "2026-11-26"
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "adidasgolf-2027-アディダスゴルフ2027",
@@ -5575,7 +5645,7 @@
    "saleTime": null,
    "payBy": null,
    "officialUrl": null,
-   "verifiedAt": "2026-11-26"
+   "verifiedAt": "2026-11-28"
   },
   {
    "id": "logos-2027-ロゴスの2027",
@@ -5610,8 +5680,188 @@
    "saleAt": null,
    "saleTime": null,
    "payBy": null,
-   "officialUrl": "https://www.mos.jp/",
-   "verifiedAt": "2026-11-27"
+   "officialUrl": null,
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "ringerhut-2027-リンガーハット(2027年正月向け)",
+   "companyId": "ringerhut",
+   "name": "リンガーハット福袋(2027年正月向け)",
+   "price": 3500,
+   "contents": "お食事割引券3,000円分(500円券×6枚、期限2027/2/28、テイクアウトも可)、クーポン付き歳時記カレンダー、長崎ちゃんぽん半生麺、スープ、プチポテト、かりんとう、杏仁豆腐、オリジナルトートバッグ(3色から選択)の全8品。1人5個まで、数量限定、予約不可。販売日は店舗により異なる。(公式ニュース 2026.11.25 で確認)",
+   "channel": "店頭",
+   "startAt": null,
+   "startTime": null,
+   "endAt": null,
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": "2026-12-10",
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.ringerhut.jp/news/2026/1125_1/",
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "bigboy-2027-ビッグボーイ冬の2027",
+   "companyId": "bigboy",
+   "name": "ビッグボーイ 冬の福袋2027",
+   "price": 4500,
+   "contents": "お食事券4,000円分(500円券×8枚、期限2027/6/23)、コーデュロイトートバッグ、メラミンプレート2枚、ブランケット、ハンドタオル。ビッグボーイ・ヴィクトリアステーション全店で利用可。応募は1人1回、応募後の店舗変更・キャンセル不可、転売目的の購入不可。受取は2026/12/24 10:00〜2027/1/3、代金は店舗レジで支払い。当選連絡日(12/16)は報道情報・公式未確認。(公",
+   "channel": "抽選",
+   "startAt": "2026-11-25",
+   "startTime": null,
+   "endAt": "2026-12-09",
+   "endTime": "23:59",
+   "resultAt": "2026-12-16",
+   "saleAt": "2026-12-24",
+   "saleTime": "10:00",
+   "payBy": null,
+   "officialUrl": "https://www.bigboyjapan.co.jp/special/bb-winter-fukubukuro2027/",
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "dennys-2027-デニーズの2027",
+   "companyId": "dennys",
+   "name": "デニーズの福袋2027",
+   "price": 4280,
+   "contents": "4,280円(ドリンクバー無料券5,465円分+Denny's Table冷凍商品)/5,980円(同8,877円分相当)。オリジナルスエード調バッグ(グリーン/ベージュ)付き。ドリンクバー券期限2027/3/31。店頭予約 12/14〜12/25、販売 12/26〜2027/1/31(数量到達で終了)。新宿西口店・赤坂駅前店は非販売。(公式プレスリリースPDFで確認)",
+   "channel": "店頭",
+   "startAt": "2026-12-14",
+   "startTime": null,
+   "endAt": "2026-12-25",
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": "2026-12-26",
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.dennys.jp/campaign/fukubukuro/",
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "kamakurapasta-2027-鎌倉パスタ2027年(sou・sou×鎌倉パスタ)",
+   "companyId": "kamakurapasta",
+   "name": "鎌倉パスタ 2027年福袋(SOU・SOU×鎌倉パスタ)",
+   "price": null,
+   "contents": "SOU・SOUトートバッグ、SOU・SOUタンブラー、デジタルチケット3,000円分(1会計1枚=1,500円、有効2027/1/4〜6/30)。WEB予約→店舗受取。価格は公式ページに記載なし。なくなり次第終了。",
+   "channel": "先着",
+   "startAt": "2026-11-20",
+   "startTime": null,
+   "endAt": null,
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": null,
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.saint-marc-hd.com/kamakura/contents/2027fk/",
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "kurashiki-2027-倉式珈琲店2027倉式うれしき",
+   "companyId": "kurashiki",
+   "name": "倉式珈琲店 2027倉式うれしき福袋",
+   "price": 4000,
+   "contents": "7,000円/5,000円/4,000円の3種。珈琲豆またはドリップバッグ、SOU・SOUトート&タンブラー、500円お食事券(8〜14枚、期限2027/1/1〜6/30)。全国44店(一部非販売)。電話・店頭予約。受取・販売は初売りから。オンラインストア版は別内容で近日公開。",
+   "channel": "店頭",
+   "startAt": "2026-12-01",
+   "startTime": null,
+   "endAt": null,
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": "2027-01-01",
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.saint-marc-hd.com/kurashiki/news/1636/",
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "godiva-2027-ゴディバ2027ニューイヤーハッピーバッグ",
+   "companyId": "godiva",
+   "name": "ゴディバ 2027 ニューイヤー ハッピーバッグ",
+   "price": 5400,
+   "contents": "標準5,400円/アウトレット限定6,000円/オンライン限定6,480円の3種。チョコレート詰め合わせとオリジナルバッグ。数量限定。販売は2027/1/1(各店の初売り開始時刻、公式オンラインは10:00)。一部百貨店オンラインは10/31から、一部ショップは12/1から事前予約。(公式ニュース 2026-11-20 で確認)",
+   "channel": "店頭",
+   "startAt": null,
+   "startTime": null,
+   "endAt": null,
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": "2027-01-01",
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.godiva.co.jp/news/news20261120_2.html",
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "dhc-2027-dhc2027(最大40%off)",
+   "companyId": "dhc",
+   "name": "DHC 福袋2027(最大40%OFF)",
+   "price": null,
+   "contents": "スキンケア3,861〜14,553円、ダイエット20,520〜24,489円、健康食品3,564〜12,960円、WEB限定2,563〜12,744円など商品ごとに異なる。数量限定、売り切れ次第終了。販売終了は商品により異なる(2026/12/24〜2027/1/26)。ペット用福袋は別ページ。開始日は公式に記載なし(すでに販売中)。",
+   "channel": "ネット",
+   "startAt": null,
+   "startTime": null,
+   "endAt": "2027-01-26",
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": null,
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.dhc.co.jp/contents/limited/page_lp_fuku_202612.html",
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "attenir-2027-アテニアbeautybag(2026年11月)",
+   "companyId": "attenir",
+   "name": "アテニア Beauty BAG 福袋(2026年11月)",
+   "price": 11000,
+   "contents": "Lift Inception/Bright Inception の2種から選び、7品から2品を選択。アテニア多機能バッグ(M/L)付き。最大約32%OFF。1人1セット、数量限定。日程は公式ページに記載なし。",
+   "channel": "ネット",
+   "startAt": null,
+   "startTime": null,
+   "endAt": null,
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": null,
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.attenir.co.jp/campaign/01/2611_99_a/index.html",
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "pokemoncenter-2027-ポケモンセンターオンラインピカピカボックス2027(再抽選)",
+   "companyId": "pokemoncenter",
+   "name": "ポケモンセンターオンライン ピカピカボックス2027(再抽選)",
+   "price": 5500,
+   "contents": "ピチュー・ピカチュウ・ライチュウのぬいぐるみのうち1つ(選べない)と、その他のポケモングッズ。1人1点、クレジットカード決済のみ、全国一律送料550円。1回目抽選(10/27〜11/2)の無効分の再抽選。当選発表は12/9 15:00以降にメール、購入手続きは12/17 16:59まで。発送は2027年1月下旬と商品ページに記載(1回目の告知は12/11〜12/25で食い違いあり)。",
+   "channel": "抽選",
+   "startAt": "2026-11-25",
+   "startTime": null,
+   "endAt": "2026-11-30",
+   "endTime": null,
+   "resultAt": "2026-12-09",
+   "saleAt": "2026-12-09",
+   "saleTime": "15:00",
+   "payBy": null,
+   "officialUrl": "https://www.pokemoncenter-online.com/4521329453866.html",
+   "verifiedAt": "2026-11-28"
+  },
+  {
+   "id": "moomin-2027-ムーミン福箱2027(moominshoponline限定)",
+   "companyId": "moomin",
+   "name": "ムーミン福箱2027(MOOMIN SHOP ONLINE限定)",
+   "price": 8800,
+   "contents": "限定キャンバスビッグトート、限定の平型ぬいぐるみチャーム(3種からランダム)、約12,000円相当のムーミングッズ。国内送料無料、1注文1箱。12月中旬頃から順次お届け。完売状況は未確認。ファンクラブ先行は10/15〜10/22(公式ニュースで確認。一般予約の開始日は報道のみで未確認)。",
+   "channel": "先着",
+   "startAt": "2026-10-22",
+   "startTime": null,
+   "endAt": null,
+   "endTime": null,
+   "resultAt": null,
+   "saleAt": null,
+   "saleTime": null,
+   "payBy": null,
+   "officialUrl": "https://www.moomin.co.jp/news/products/6abcb3640e550",
+   "verifiedAt": "2026-11-28"
   }
  ]
 }
